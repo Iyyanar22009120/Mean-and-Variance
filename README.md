@@ -44,6 +44,10 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 
 # Experiment :
+![image](https://user-images.githubusercontent.com/118680259/229994701-f9590a0f-03ee-4749-8530-a7b6240d0911.png)
+
+
+
 
 
 # Program :
